@@ -1,0 +1,14 @@
+{
+  "name": "cakes",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "mongoose": "^5.10.14",
+    "nodemon": "^2.0.6"
+  }
+}
