@@ -1,6 +1,5 @@
 import express from 'express';
 import mongoose from 'mongoose';
-import httpErrors from 'http-errors';
 
 import {homeRouter, cakesRouter} from './routes/index.js';
 
